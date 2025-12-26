@@ -20,17 +20,6 @@ a = int(input("Enter the number a: "))
 b = int(input("Enter the number b: "))
 print(f"LCM of {a} and {b} is {LCM(a,b)}")
 
-
-
-
-
-
-
-
-
-
-
-
 """
 a -> 5
 b -> 10
@@ -38,13 +27,6 @@ b -> 10
  5      15     25        35...
     10      20      30 ...
     
-    
-    
-    
-    
-    
-    
-
 worst case 
 
 a -> 7 (prime number)
@@ -52,20 +34,6 @@ b -> 13 (prime number)
 
 LCM -> a*b = 91
 
-"""
-
-
-
-
-
-
-
-
-
-
-
-
-""" 
 Example: LCM(6,4)
 largest -> 6, smallest -> 4
 6   4  -> 6%4 = 2
